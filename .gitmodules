@@ -1,0 +1,3 @@
+[submodule "vtkviz"]
+	path = vtkviz
+	url = https://github.com/daidedou/vtkviz.git
