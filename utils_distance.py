@@ -8,7 +8,7 @@ import scipy
 import scipy.io as sio
 from scipy.sparse import csr_matrix, csc_matrix
 import os
-from torch_scatter import scatter_add
+#from torch_scatter import scatter_add
 
 
 SAVE_MEMORY = False
